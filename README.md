@@ -4,9 +4,15 @@
 2. Loan Record will only disclose your personal information if we have a legal obligation to do so, or if we need to enforce an obligation against you.
 3. Send any questions about this policy morgan7000@hotmail.com
 
-### Markdown
+### Advertising
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Loan Record contains advertising banners and popups to offset development and maintenance costs while keeping many of the apps features free to the user.
+
+Admob
+
+AdMob is an advertising service provided by AdMob Google Inc. Please read [Google's Privacy & Terms](https://policies.google.com/technologies/partner-sites) of how they use information from sites or apps that use their services. 
+Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.
+Place of processing: United States
 
 ```markdown
 Syntax highlighted code block
