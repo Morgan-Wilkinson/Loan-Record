@@ -1,8 +1,8 @@
 ## Loan Record Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/Morgan-Wilkinson/Loan-Record/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Loan Record is a free applications that uses advertising currently provided by Admob. Please see the "Advertising" section listed below.
+2. Loan Record will only disclose your personal information if we have a legal obligation to do so, or if we need to enforce an obligation against you.
+3. Send any questions about this policy morgan7000@hotmail.com
 
 ### Markdown
 
