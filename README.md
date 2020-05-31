@@ -23,7 +23,7 @@ Some of our apps use Apple's iCloud to store user data that is shared amongst a 
 
 Read [Apple Inc. Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
 
-# What Data is stored?
+### What Data is stored?
 App Database: Loan Record uses apples built in Core Data capabilities to create a presistant storage on the device. A backup copy of the app may be stored on Apple's iCloud if you choose this option in the device settings.
 
 **How to remove Data**
