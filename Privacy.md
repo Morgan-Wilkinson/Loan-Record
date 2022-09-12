@@ -2,7 +2,7 @@
 
 1. Loan Record is a free applications that uses advertising currently provided by Admob. Please see the "Advertising" section listed below.
 2. Loan Record will only disclose your personal information if we have a legal obligation to do so, or if we need to enforce an obligation against you.
-3. Send any questions about this policy morgan7000@hotmail.com.
+3. Send any questions about this policy morganwilkinson0@gmail.com.
 
 ## Advertising
 
