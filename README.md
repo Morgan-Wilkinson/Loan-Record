@@ -1,7 +1,5 @@
 # Loan-Record
 
-https://apps.apple.com/us/app/loan-record/id1516132461
-
 Loan Record is an easy way to keep track of all your loans and their due dates. Keep track of your payments and estimate your future loan payments seamlessly.
 
 • Take a quick glance at the loan's highlights to see important information like the due date or the monthly payment. 
