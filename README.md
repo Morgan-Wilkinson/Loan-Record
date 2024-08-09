@@ -18,8 +18,7 @@ Dark mode support.
 
 **Dark Mode** | **Light Mode**
 :-------------------------:|:-------------------------:
-<img src="Preview/6.5/Simulator Screen Shot - iPhone 11 Pro Max - 2020-06-17 at 19.44.02.png"/>
-![image](https://github.com/Morgan-Wilkinson/Loan-Record/blob/f9148815c518c9be5d18748fba8a7f8095070863/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.44.02.png)     | ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.49.01.png)
+<img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.44.02.png"/>  | ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.49.01.png)
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.44.13.png) |  ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.56.png)
 :-------------------------:|:-------------------------:
