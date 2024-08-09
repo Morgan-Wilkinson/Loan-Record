@@ -41,7 +41,7 @@ Dark mode support.
 :-------------------------:|:-------------------------:
 <img src="Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-17%20at%2019.36.50.png"/> | <img src="Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-17%20at%2019.37.55.png"/>
 :-------------------------:|:-------------------------:
-<img src="Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-24%20at%2023.02.05.png) | <img src="Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-24%20at%2023.01.54.png"/>
+<img src="Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-24%20at%2023.02.05.png"/> | <img src="Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-24%20at%2023.01.54.png"/>
 
 
 
