@@ -18,7 +18,7 @@ Dark mode support.
 
 ## iPhone 
 
-![alt text] (Preview/6.5/Simulator Screen Shot - iPhone 11 Pro Max - 2020-06-17 at 19.44.13.png)
+![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/b0e65fd62341c9f6bb12fd694ef9cd870b13bd1a/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.44.13.png)
 
 ### Version 1.0
 
