@@ -26,7 +26,23 @@ Dark mode support.
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.20.png) | ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.59.png)
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.22.png) | ![alt text](
+![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.39.png) | ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.53.png)
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.22.png) | 
+
+## iPad 
+
+**Dark Mode** | **Light Mode**
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-17%20at%2019.36.10.png)     | ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-17%20at%2019.37.05.png)
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-17%20at%2019.36.24.png) |  ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-17%20at%2019.37.09.png)
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-17%20at%2019.36.27.png) | ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-17%20at%2019.37.13.png)
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-17%20at%2019.36.50.png) | ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-17%20at%2019.37.55.png)
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.22.png) ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-24%20at%2023.02.05.png)| ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/ipad%2012.9/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(4th%20generation)%20-%202020-06-24%20at%2023.01.54.png)
 
 
 
