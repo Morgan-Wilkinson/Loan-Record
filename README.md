@@ -18,15 +18,16 @@ Dark mode support.
 
 **Dark Mode** | **Light Mode**
 :-------------------------:|:-------------------------:
-<img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.44.02.png"/>  | ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.49.01.png)
+<img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.44.02.png"/>  | <img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.49.01.png"/>
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.44.13.png) |  ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.56.png)
+<img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.44.13.png"/> |  <img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.56.png"/>
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.20.png) | ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.59.png)
+<img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.20.png"/> | <img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.59.png"/>
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.39.png) | ![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/0f714f11a4e424e4034bfa59a12f25eeade6423e/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.53.png)
+<img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.39.png"/> | <img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.53.png"/>
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/Morgan-Wilkinson/Loan-Record/blob/c720098d4cd65215063a35f95405718fbe0c84d4/Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.22.png) | 
+<img src="Preview/6.5/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-06-17%20at%2019.48.22.png"/> | 
+
 
 ## iPad 
 
