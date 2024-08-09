@@ -14,4 +14,12 @@ Loan Record is an easy way to keep track of all your loans and their due dates. 
 
 Dark mode support. 
 
+### Preview
+
+## iPhone 
+
+![alt text] (Preview/6.5/Simulator Screen Shot - iPhone 11 Pro Max - 2020-06-17 at 19.44.13.png)
+
 ### Version 1.0
+
+
